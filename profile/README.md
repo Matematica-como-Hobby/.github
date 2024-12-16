@@ -1,6 +1,4 @@
-# Sobre esta Organização
-
-Bem-vindo à organização **Matemática como Hobby**! 🎓🧮  
+# Objetivo
 
 Esta organização é dedicada ao desenvolvimento de projetos em **LaTeX** com o objetivo de registrar, compartilhar e documentar soluções de exercícios de livros de matemática.
 
