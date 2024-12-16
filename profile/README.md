@@ -14,3 +14,5 @@ Feedbacks, correções e sugestões também são muito bem-vindos!
 ## Entre em contato
 
 Quer saber mais ou propor novos projetos? Fique à vontade para abrir uma *issue* ou entrar em contato conosco.
+
+Participe de nossa comunidade no discord clicando [aqui](https://discord.com/invite/BAxM7Qx8Vm)
