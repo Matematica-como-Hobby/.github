@@ -1,6 +1,6 @@
 # Objetivo
 
-Esta organização é dedicada ao desenvolvimento de projetos em **LaTeX** com o objetivo de registrar, compartilhar e documentar soluções de exercícios de livros de matemática.
+Esta organização é dedicada ao desenvolvimento de projetos em **LaTeX** para registrar, compartilhar e documentar soluções de exercícios de livros de matemática.
 
 ## Como contribuir
 
